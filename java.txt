@@ -1,0 +1,19 @@
+install 
+
+collaboration 
+
+ 	 SQL Developments
+
+
+2020-12 - http://download.eclipse.org/releases/luna
+
+General
+ Swing designer
+swing de
+
+
+
+You can fix it by following the following steps:
+
+Go to: Project -> Properties -> Libraries -> Add Library -> Execution Environment JRJE-1.1 
+ Project -> Properties -> Libraries -> Add Library -> Execution Environment JavaSE-15
